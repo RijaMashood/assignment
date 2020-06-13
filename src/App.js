@@ -4,8 +4,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div classname="App">
       <header className="App-header">
+        <h1>HELLO WORLD</h1>
+        <h2>NEW IN BOOTCAMP</h2>
+        <h2>First React Project</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
